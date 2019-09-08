@@ -1,0 +1,14 @@
+{
+  "environment": "",
+  "location": "1",
+  "app": "tourde",
+  "appOwner": "TOUR",
+  "sidebar": "expanded",
+  "menuLevel": 0,
+  "securityUrl": "localhost",
+  "securityUrl2": "http://10.18.20.81:8050/sc/api/",
+  "webApiUrl": "http://10.18.20.81:8151/mes/api/",
+  "notificationWebsocketUrl": "ws://fphd1.ctpilot1.com:8080/notify/"
+}
+
+
